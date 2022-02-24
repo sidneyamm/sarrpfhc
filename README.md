@@ -1,2 +1,2 @@
 # sarrpfhc
-Sistema de Automação Residencial Raspberry Python Flask HTML CSS
+Sistema de Automação Residencial utilizando Raspberry, Python, Flask, HTML e CSS
